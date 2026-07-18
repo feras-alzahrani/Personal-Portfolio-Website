@@ -18,7 +18,7 @@ This project is a simple personal portfolio website built using HTML. It introdu
 - me.jpeg
 
 ## Live Website
-Hosted using InfinityFree.
+https://feras-alzahrani.42web.io/index.HTML
 
 ## Author
 Feras Alzahrani
